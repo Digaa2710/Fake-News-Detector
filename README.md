@@ -50,7 +50,7 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/fake-news-detection.git](https://github.com/your-username/fake-news-detection.git)
+    git clone [https://github.com/Digaa2710/Fake-News-Detector.git](https://github.com/Digaa2710/Fake-News-Dectector.git)
     cd fake-news-detection
     ```
 

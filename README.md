@@ -1,10 +1,10 @@
-# Fake News Detection System 📰
+# Fake News Detection System 
 
 A robust and intuitive system designed to combat misinformation by classifying news articles as "Real" or "Fake" using Natural Language Processing (NLP) and Machine Learning. This project features a high-accuracy classification model and an interactive web application for real-time analysis.
 
 ***
 
-## Features ✨
+## Features 
 
 * **High-Accuracy Classification:** Employs a **Multinomial Naive Bayes** classifier that achieves **93.17% accuracy** on the test dataset.
 * **Advanced NLP Techniques:** Uses **TF-IDF** and **Count Vectorizer** for effective feature extraction from textual data, turning unstructured text into meaningful vectors for the model.
@@ -14,7 +14,7 @@ A robust and intuitive system designed to combat misinformation by classifying n
 
 ***
 
-## How It Works 🤖
+## How It Works 
 
 The system follows a straightforward yet powerful pipeline:
 
@@ -26,7 +26,7 @@ The system follows a straightforward yet powerful pipeline:
 
 ***
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 * **Language:** Python 3.8+
 * **Machine Learning:** Scikit-learn
@@ -37,7 +37,7 @@ The system follows a straightforward yet powerful pipeline:
 
 ***
 
-## Getting Started 🚀
+## Getting Started 
 
 Follow these instructions to get a local copy up and running.
 
@@ -84,7 +84,7 @@ Follow these instructions to get a local copy up and running.
 
 ***
 
-## Model Performance 📈
+## Model Performance 
 
 The core of this system is a **Multinomial Naive Bayes** classifier. It was trained on a labeled dataset of real and fake news articles and evaluated on a hold-out test set.
 
